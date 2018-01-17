@@ -1,32 +1,32 @@
 - name: GitHub
   url: http://github.com/bvjug
   class: icon-github
-  title: Code und mehr...
+  title: Code and more...
 
 - name: YouTube
   url: http://www.youtube.com/
   class: icon-youtube
-  title: "Videos, Video-Anleitungen und Filme von Phlow auf YouTube"
+  title: "User group videos"
 
 - name: Twitter
   url: http://twitter.com/
   class: icon-twitter
-  title: "Immer das Neuste von Phlow gibt es auf Twitter"
+  title: "Follow us in Twitter"
 
-- name: Mixcloud
-  url: http://www.mixcloud.com/phlow/
-  class: icon-cloud
-  title: "Mixe, was sonst?"
+#- name: Mixcloud
+#  url: http://www.mixcloud.com/phlow/
+#  class: icon-cloud
+#  title: "Mixe, was sonst?"
 
-- name: Phlow YouTube Google+
-  url: https://plus.google.com/u/0/+Phlow
-  class: icon-googleplus
-  title: "YouTube Google+"
+#- name: Phlow YouTube Google+
+#  url: https://plus.google.com/u/0/+Phlow
+#  class: icon-googleplus
+#  title: "YouTube Google+"
 
-# - name: Facebook
-#   url: http://www.facebook.com/
-#   class: icon-facebook
-#   title: ""
+- name: Facebook
+   url: https://www.facebook.com/events/453729231626027/
+   class: icon-facebook
+   title: "Events to attend"
 
 # - name: Soundcloud
 #   url: http://soundcloud.com/
