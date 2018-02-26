@@ -16,7 +16,7 @@ widget2:
   title: "Why to get involved in BVJUG?"
   url: 'https://bvjug.github.io/'
   text: 'Joining a JUG has following advantages.<br/>1. Networking <br/>2. Staying up to date with Java.<br/>3. Interesting Presentations.<br/>'
-  video: '<a href="#" data-reveal-id="videoModal"><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/YouTube.max-2800x2800.png" width="302" height="182" alt=""/></a>'
+  video: '<a href="#" data-reveal-id="videoModal"><img src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/YouTube.max-2800x2800.png" width="220" height="170" alt=""/></a>'
 #
 # Use the call for action to show a button on the frontpage
 #
@@ -41,7 +41,7 @@ homepage: true
 
 <div id="videoModal" class="reveal-modal large" data-reveal="">
   <div class="flex-video widescreen vimeo" style="display: block;">
-    <iframe width="1280" height="720" src="https://www.youtube.com/watch?v=_ijM31HTodE" frameborder="0" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/_ijM31HTodE?start=62" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
   </div>
   <a class="close-reveal-modal">&#215;</a>
 </div>
