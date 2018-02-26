@@ -1,6 +1,5 @@
 ---
 layout: page
-show_meta: false
 title: "Getting Started"
 subheadline: "A Step-by-Step Guide"
 teaser: "This step-by-step guide helps you to customize Feeling Responsive to your needs."
@@ -16,10 +15,6 @@ permalink: "/getting-started/"
 1. Open `_data/services.yml` and customize links in the footer.
 1. Open `_data/network.yml` and customize links in the footer.
 1. Open `_data/authors.yml` and edit author information and set default author in `config.yml`.
-1. [Read the documentation][1] to check out all features of *Feeling Responsive*.
 1. Make it yours and add your own content.
 
 <a class="radius button small" href="{{ site.url }}{{ site.baseurl }}/documentation/">Check out the documentation for all the tricks ›</a>
-
-
- [1]: {{ site.url }}{{ site.baseurl }}/documentation/
