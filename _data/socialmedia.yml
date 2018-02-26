@@ -23,10 +23,10 @@
 #  class: icon-googleplus
 #  title: "YouTube Google+"
 
-- name: Facebook
-   url: https://www.facebook.com/events/453729231626027/
-   class: icon-facebook
-   title: "Events to attend"
+#- name: Facebook
+#   url: https://www.facebook.com/events/453729231626027/
+#   class: icon-facebook
+#   title: "Events to attend"
 
 # - name: Soundcloud
 #   url: http://soundcloud.com/
